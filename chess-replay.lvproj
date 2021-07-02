@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="20008000">
+<Project Type="Project" LVVersion="18008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -46,13 +46,7 @@
 					<Item Name="board_piece_names.ctl" Type="VI" URL="../code/board/board_piece_names.ctl"/>
 				</Item>
 			</Item>
-			<Item Name=".gitattributes" Type="Document" URL="../.gitattributes"/>
-			<Item Name=".gitignore" Type="Document" URL="../.gitignore"/>
-			<Item Name="chess-replay.aliases" Type="Document" URL="../chess-replay.aliases"/>
-			<Item Name="chess-replay.lvlps" Type="Document" URL="../chess-replay.lvlps"/>
-			<Item Name="LICENSE" Type="Document" URL="../LICENSE"/>
 			<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-			<Item Name="README.md" Type="Document" URL="../README.md"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
